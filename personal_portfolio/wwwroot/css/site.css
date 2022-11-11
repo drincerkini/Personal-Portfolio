@@ -1,0 +1,133 @@
+/* html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+*/
+
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+
+
+.navbar-inverse {
+    background-color: #03a9f4;
+}
+
+    .navbar-inverse .navbar-brand {
+        color: #000000;
+    }
+
+    .navbar-inverse .navbar-nav > li > a {
+        color: #000000;
+    }
+
+.list-group p {
+    font-weight: bold;
+}
+
+.list-group-item p:hover {
+    color: #2196f3;
+}
+
+.list-group-item:hover {
+    cursor: pointer;
+}
+
+.badge.css, .progress-bar.css {
+    background: #000000;
+    color: #ffffff;
+    border: 1px solid #000000;
+}
+
+.badge.html, .progress-bar.html {
+    background: #FF5733;
+}
+
+.badge.js, .progress-bar.js {
+    background: #FFEB3B;
+    color: #000000;
+}
+
+.badge.react, .progress-bar.react {
+    background: #61DBFB;
+}
+
+.badge.php, .progress-bar.php {
+    background: #474A8A;
+}
+
+
+.badge.java, .progress-bar.java {
+    background: #f44336;
+}
+
+.badge.dotnet, .progress-bar.dotnet {
+    background: #8a2be2;
+}
+
+.badge.csh, .progress-bar.csh {
+    background: #9b4993;
+}
+
+.badge.sql, .progress-bar.sql {
+    background: #ffba01;
+}
+
+.badge.ts, .progress-bar.ts {
+    background: #007acc;
+}
+
+.badge.vue, .progress-bar.vue {
+    background: #4caf50;
+}
+
+gitLink {
+    color: black;
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
