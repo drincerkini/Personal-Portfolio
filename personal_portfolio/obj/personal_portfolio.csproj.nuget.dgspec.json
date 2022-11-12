@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COMPUTER SHOP\\source\\repos\\personal_portfolio\\personal_portfolio\\personal_portfolio.csproj": {}
+    "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\personal_portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COMPUTER SHOP\\source\\repos\\personal_portfolio\\personal_portfolio\\personal_portfolio.csproj": {
+    "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\personal_portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COMPUTER SHOP\\source\\repos\\personal_portfolio\\personal_portfolio\\personal_portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\personal_portfolio.csproj",
         "projectName": "personal_portfolio",
-        "projectPath": "C:\\Users\\COMPUTER SHOP\\source\\repos\\personal_portfolio\\personal_portfolio\\personal_portfolio.csproj",
+        "projectPath": "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\personal_portfolio.csproj",
         "packagesPath": "C:\\Users\\COMPUTER SHOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COMPUTER SHOP\\source\\repos\\personal_portfolio\\personal_portfolio\\obj\\",
+        "outputPath": "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\COMPUTER SHOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
