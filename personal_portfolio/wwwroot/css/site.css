@@ -1,23 +1,4 @@
-/* html {
-  font-size: 14px;
-}
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  margin-bottom: 60px;
-}
-
-*/
 
 .titulli{
     display:flex;
@@ -82,31 +63,6 @@ h1 {
 }
 
 
-/*.navbar-inverse {
-    background-color: #03a9f4;
-}
-
-    .navbar-inverse .navbar-brand {
-        color: #000000;
-    }
-
-    .navbar-inverse .navbar-nav > li > a {
-        color: #000000;
-    }
-
-.list-group p {
-    font-weight: bold;
-}
-
-.list-group-item p:hover {
-    color: #2196f3;
-}
-
-.list-group-item:hover {
-    cursor: pointer;
-}
-    */
-
 .badge.css, .progress-bar.css {
     background: #000000;
     color: #ffffff;
@@ -155,12 +111,6 @@ h1 {
     background: #4caf50;
 }
 
-gitLink {
-    color: black;
-    outline: none;
-    text-decoration: none;
-    padding: 2px 1px 0;
-}
 
 
 footer{
