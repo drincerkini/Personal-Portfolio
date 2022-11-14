@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xfNkTbUSRUAa6VgAud0MNnK1Dij0zp249oG+lSXqJBU=",
+  "Hash": "EH1HUY3LFNYj2wML/9Dd+KliikEVdFp+7iLLamN86B0=",
   "Source": "personal_portfolio",
   "BasePath": "_content/personal_portfolio",
   "Mode": "Default",
@@ -287,6 +287,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\img\\home-banner.png"
+    },
+    {
+      "Identity": "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\wwwroot\\css\\img\\logo.avif",
+      "SourceId": "personal_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\wwwroot\\",
+      "BasePath": "_content/personal_portfolio",
+      "RelativePath": "css/img/logo.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\logo.avif"
+    },
+    {
+      "Identity": "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\wwwroot\\css\\img\\logo.png",
+      "SourceId": "personal_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\wwwroot\\",
+      "BasePath": "_content/personal_portfolio",
+      "RelativePath": "css/img/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\img\\logo.png"
     },
     {
       "Identity": "C:\\Users\\COMPUTER SHOP\\Desktop\\Personal-Portfolio\\personal_portfolio\\wwwroot\\css\\img\\profile.png",
